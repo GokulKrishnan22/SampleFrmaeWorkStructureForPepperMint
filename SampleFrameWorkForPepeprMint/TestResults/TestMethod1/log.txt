@@ -1,0 +1,8 @@
+Staring timestamp: 6/27/2020 2:40:26 AM
+Test: TestMethod1
+[INFO]: Browser: Chrome
+[INFO]: https://www.facebook.com/
+	[STEP]: Click Login Button
+	[STEP]: Click Profile Name
+[INFO]: Outcome: Failed
+[INFO]: Close Browser
